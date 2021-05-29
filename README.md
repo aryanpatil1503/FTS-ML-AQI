@@ -6,3 +6,5 @@ Anjali Singh - I have cleaned dataset by removing some columns and null values .
 Aryan Patil- performed cleaning of dataset using basic functions and performed some feature engineering on the sam
 
 Harsh Agarwal - Cleaned Data and applied some stats
+
+Pihu Jain  - I have cleaned dataset by removing null values and removed the null values of category data by most frequent ones and removed outliers and done some data visualization.
