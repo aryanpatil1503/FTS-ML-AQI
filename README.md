@@ -8,3 +8,5 @@ Aryan Patil- performed cleaning of dataset using basic functions and performed s
 Harsh Agarwal - Cleaned Data and applied some stats
 
 Pihu Jain  - I have cleaned dataset by removing null values and removed the null values of category data by most frequent ones and removed outliers and done some data visualization.
+ 
+Anjali Singh - I have now removed the oultliers from the dataset using z score and different methods
