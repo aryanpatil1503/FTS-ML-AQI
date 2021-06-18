@@ -6,6 +6,8 @@ Anjali Singh - I have done preprocessing of the data.on both of the dataset citi
 After my cleaned , normalized dataset i trained the model using multiple regression and splitted my dataset into 80:20 ratio for training and testing part .
 when i completed my model training and testing , i checked using R square that whether my model fits the best or not ..and i found 0.85 r square value in my city by datr and 0.56 value in my city by hour dataset. more close the value is to 1 more perfect is our model
 
+After I completed my training for AQI , i used logistic regression to predict my categorical variable AQI Bucket 
+
 Aryan Patil- performed cleaning of dataset using different functions and performed some feature engineering on the same.Found correlation of different features on AQI,performed basic visualisation and found outliers using IQR and Zscore and managed them.
 
 Harsh Agarwal - Cleaned Data and applied some stats
