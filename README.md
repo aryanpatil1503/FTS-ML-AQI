@@ -8,7 +8,7 @@ when i completed my model training and testing , i checked using R square that w
 
 After I completed my training for AQI , i used logistic regression to predict my categorical variable AQI Bucket 
 
-Aryan Patil- performed cleaning of dataset using different functions and performed some feature engineering on the same.Found correlation of different features on AQI,performed basic visualisation and found outliers using IQR and Zscore and managed them.
+Aryan Patil- performed cleaning of dataset using different functions and performed some feature engineering on the same.Found correlation of different features on AQI,performed basic visualisation and found outliers using IQR and Zscore and managed them. Trained the data on ML models. Used regression(accuracy 0.85) to predict AQI and normalised the data for the same. Used classification (svm) to predict AQI_BUCKET(accuracy 0.99)
 
 Harsh Agarwal - Cleaned Data and applied some stats
 
